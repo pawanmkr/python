@@ -1,0 +1,3 @@
+took = input()
+
+print(took)
